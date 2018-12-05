@@ -2,6 +2,14 @@
 
 (according to [Robert K. Yin](https://www.amazon.ca/Case-Study-Research-Design-Methods/dp/0761925538/ref=sr_1_2?ie=UTF8&qid=1543864818&sr=8-2&keywords=case+study+research+design+and+methods))
 
+## Qualities of a Good Case Study Investigator
+
+- Asks good questions.
+- Is a good listener.
+- Is adaptive and flexible.
+- Has a firm grasp on the issues being studied.
+- Is unbiased by preconceived notions.
+
 ## Five Components of Case Study Design
 
 1. The study's questions
@@ -84,3 +92,41 @@ Conversely, if a case study focuses on the global nature of an organization or p
 #### Weaknesses of embedded designs
 
 - When the case study focuses on a single subunit of analysis, and fails to return to the larger unit of analysis.
+
+## Case Study Protocol
+
+A major way of increasing the reliability of a case study.
+Intended to guide the investigator in carryihng out the data collection from a single-case study.
+Should include the following sections:
+- Overview of the case study project
+    - Objectives
+    - Issues
+    - Relevant Readings
+- Field Procedures
+    - Presentation of credentials
+    - Access to case study "sites"
+    - General sources of information
+    - Procedural reminders
+- Case study questions
+- Guide for the case study report
+    - Outline
+    - Data format
+    - Use and presentation of other documentation
+    - Bibliographical information
+
+## Case Study Data Collection
+
+### Principles of Data Collection
+
+1. Using multiple, not just single, sources of evidence.
+2. Creating a case study database.
+3. Maintaining a chain of evidence.
+
+### Evidence Sources
+
+1. Documentation
+2. Archival Records
+3. Interviews
+4. Direct Observation
+5. Participant Observation
+6. Physical Artifacts
