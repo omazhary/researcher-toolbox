@@ -1,5 +1,15 @@
 # Multilevel Analysis
 
+## Advantages of Multilevel Analysis
+
+- Applies to a population with a hierarchical structure.
+- Individual observations are not compeletely independent.
+- Avoids the "_design effect_".
+
+## Disadvantages of Multilevel Analysis
+
+
+
 ## Variables in Multilevel Analysis
 
 - **Global:**
