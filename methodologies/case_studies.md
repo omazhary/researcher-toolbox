@@ -1,6 +1,6 @@
 # Case Studies
 
-(according to [Robert K. Yin](https://www.amazon.ca/Case-Study-Research-Design-Methods/dp/0761925538/ref=sr_1_2?ie=UTF8&qid=1543864818&sr=8-2&keywords=case+study+research+design+and+methods))
+(based on [Robert K. Yin](https://www.amazon.ca/Case-Study-Research-Design-Methods/dp/0761925538/ref=sr_1_2?ie=UTF8&qid=1543864818&sr=8-2&keywords=case+study+research+design+and+methods) and includes my personal experiences as mediated by conducting research in the field of software engineering)
 
 ## Qualities of a Good Case Study Investigator
 
@@ -37,7 +37,7 @@ They can be changed later.
 
 | Tests | Case Study Tactic | Research Phase Where Tactic Occurs |
 |-------|-------------------|------------------------------------|
-| **Construct Validity** | - Use multiple sources of evidence <br /> - Establish chain of evidence <br /> - Have key informants review draft case study report | - Data collection <br /> - Data collection <br /> - Composition |
+| **Construct Validity** | - Use multiple sources of evidence <br /> - Establish chain of evidence <br /> - Have key informants review draft case study report | - Data collection <br /> - Composition |
 | **Internal Validity** | - Do pattern matching <br /> - Do explanation building <br /> - Address rival explanations <br /> - Use logic models | Data analysis |
 | **External Validity** | - Use theory in single-case studies <br /> - Use replication logic in multiple-case studies | Research design |
 | **Reliability** | - Use case study protocol <br /> - Develop case study database | Data collection |
@@ -124,9 +124,13 @@ Should include the following sections:
 
 ### Evidence Sources
 
-1. Documentation
-2. Archival Records
-3. Interviews
-4. Direct Observation
-5. Participant Observation
-6. Physical Artifacts
+Evidence sources determine the data collection approaches available to you.
+
+| Source | Data Collection Approach | Data Analysis Approach |
+| ------ | ------------------------ | ---------------------- |
+| Documentation | - Scraping <br /> - Text Information Retrieval <br /> - Old-fashioned Reading | - Document Coding <br /> - Thematic Analysis <br /> - Statistical Analysis |
+| Archival Records | - Scraping <br /> - API Mining | - Most Statistical Approaches <br /> - Most Clustering Approaches |
+| Available People | - Interviews <br /> - Focus Groups <br /> - Questionnaires <br /> | - Transcript Coding <br /> - Thematic Analysis <br /> - Statistical Analyses (questionnaires allow for more sophisticated techniques) |
+| Direct Observation | Typicaly occurs in the field <br /> - Activity Recording <br /> - Note-taking | - Activity Coding <br /> - Thematic Analysis <br /> - Statistical Analysis |
+| Participant Observation | You (as a researcher) are more involved in the activities you are observing <br /> - Contextual Interviews <br /> - Ethnography (possibly) <br /> | - Note-taking <br /> - Activity Coding <br /> - Transcript Coding <br /> - Thematic Analysis <br /> - Statistical Analysis |
+| Physical Artifacts | See archival records | See archival records |
